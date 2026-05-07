@@ -64,9 +64,8 @@ std::condition_variable используется для ожидания поя�
 
 - **Скриншот полного экрана**
 
-<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/dd8a4611-6535-40f0-96be-593aa38d46f8" />
+![Скриншот полного экрана](https://github.com/user-attachments/assets/dd8a4611-6535-40f0-96be-593aa38d46f8)
 
----
 
 ## 5. Выводы
 
